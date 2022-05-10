@@ -26,7 +26,7 @@ SECRET_KEY = '_d$4&z=z$_lk-+5-o)^3p8bp__*4mpr3wzzg8urtz4hu4c%&92'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["127.0.0.1",'usedcarkib.herokuapp.com']
 
 
 # Application definition
